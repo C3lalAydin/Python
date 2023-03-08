@@ -1,0 +1,30 @@
+1) Kullanýcýya Adýný Soyadýný , Yaþýný ve Okul Numarasýný Sorup Ekrana yazdýran kodun ,Kodunu  Sözde kodunu ve  ekran çýktýsýný yazýn
+
+
+2)Kullanýcýya 3 Notunu Sorup Ortalamasýný Gösteren kodun, Kodunu Sözde kodunu ve ekran çýktýsýný yazýn 
+
+
+3)Kullanýcýya Adýný Ve Hangi  Yýlda Doðduðunu Sorup Yaþýný Söyleyen kodun, Sözde kodunu ve Ekran çýktýsýný yazýn
+
+
+4)Kullanýcý Ýsmiyle ve okul numarasýyla kayýt olup giriþ yaptýðý kodun, Sözde kodunu ve ekran çýktýsýný yazýn
+
+
+5)Kullanýcýnýn Girdiði Sayýnýn Karesini Bulan Kodun, sözde kodunu ve ekran çýktýsýný yazýn
+
+
+6)Dikdörtgen nin Alanýný ve çevresini hesaplayan kodun, sözde kodunu ve ekran çýktýsýný yazýn
+
+
+7)Kullanýcýnýn girdiði sayýyý kullanýcýn isteði üzerine iþlem yaptýran kodun,sözde kodunu ve ekran çýktýsýný yazýn
+
+
+
+8)Kullanýcýnýn girdiði sayý tekmi çift mi olduðunu gösteren kodun,sözde kodunu ve ekran çýktýsýný yazýn
+
+
+9)Kullanýcýnýn giridði 3 notun ortalamasýný hesaplayýn ona göre kaldýðýný yada geçtiðini gösteren kodun,sözde kodunu ve ekran çýktýsýný yazýn
+
+
+10)Kullanýcýdan Dairenin Yarýçapýný girmesini isteyen ona göre dairenin alaný ve çevresini hesaplayan kodun,sözde kodunu ve ekran çýktýsýný yazýn
+

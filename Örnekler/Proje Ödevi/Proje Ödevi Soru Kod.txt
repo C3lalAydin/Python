@@ -1,0 +1,184 @@
+Soru-1
+  
+1-Baþla
+2-oku ad_soyad
+3-Oku yas
+4-Oku okul_no
+5-Yaz ("\n\nAdýnýz ",ad_soyad,"\nYaþýnýz ",yas,"\nOkul Numaranýz ",okul_no)
+6-Bitir
+
+Soru-2
+
+1-Baþla
+2-Oku not1
+3-Oku not2
+4-Oku not3
+5-ortalama=(not1+not2+not3)/3
+6-yaz "Ortalamanýz ",ortalama
+7-Bitir
+
+Soru-3
+
+1-Baþla
+2-Oku ad
+3-Oku dogdun_yil
+4-yil=2021
+5-dogdugu_yil=(yil-dogdun_yil)
+6-Yaz Merhaba Ad Yaþýn dogdugu_yil
+7-Bitir
+
+Soru-4
+
+1-Baþla
+2-adlar=[]
+3-okul_nolar=[]
+4-Oku giris
+5-Eðer giris==1 ise
+6-Oku ad
+7-Oku okul_no
+8-Eðer adlar listesinde ad,okul_nolar listesinde okul_no varsa devam et yoksa 10. Satýrdan Devam et
+9-yaz Giriþ Yaptýnýz 
+10-Yaz Giriþ Yapamadýnýz,Kayýtlý Deðilsiniz
+11-Oku Kayit
+12-Eðer kayit=="3" ise
+13-Oku kayit_ad
+14-Oku kayit_okulno
+15-adlar.append(kayit_ad)
+16-okul_nolar.append(kayit_okulno)
+17-Oku giris2
+18-Eðer giris2==1 ise 
+19-Oku ad
+20-Oku okul_no
+21-Eðer adlar listesinde ad,okul_nolar listesinde okul_no varsa devam et yoksa 23. Satýrdan Devam et
+22-yaz Giriþ Yaptýnýz
+23-Yaz Giriþ Yapamadýnýz
+24-Bitir
+
+Soru-5
+
+1-Baþla
+2-oku sayi
+3-kare_hesaplama=sayi**2
+4-Yaz Sayi, "Sayýsýnýn Karesi", kare_hesaplama
+5-Bitir
+
+Soru-6
+
+1-Baþla
+2-Oku kenar1
+3-Oku kenar2
+4-cevre=(kenar1+kenar2)*2
+5-alan=kenar1*kenar2
+6-Yaz "\n\nDikdörtgenin Alaný ",alan,"\nDikdörtgenin Çevresi ",cevre
+7-Bitir
+
+
+Soru-7
+
+
+1-Baþla
+2-Yaz Ýki Sayý Giriniz Sonrada Ýþlem Ýþaretini Giriniz
+3-Oku sayi1
+4-oku sayi2
+5-Oku islem
+6-Eðer islem "+" ya eþitse devam et deðilse 8. adýma git
+7-Yaz Topladým Sonuç,sayi1+sayi2 , 
+8-Eðer islem "-" ye eþitse devam et deðilse 10. adýma git
+9-Yaz Çýkardým Sonuç,sayi1-sayi2
+10-Eðer islem "*" ya eþitse devam et deðilse 12. adýma git
+11-Yaz Çarptým Sonuç,sayi1*sayi2
+12-Eðer islem "/" ye eþitse devam et deðilse 14. adýma git
+13-Yaz Böldüm Sonuç,sayi1/sayi2
+14-Eðer islem "%" ya eþitse devam et deðilse 16. adýma git
+15-Yaz Modunu Aldým Sonuç,sayi1%sayi2
+16-Eðer islem "**" ya eþitse devam et deðilse 18. adýma git
+17-Yaz Kuvvetini Aldým Sonuç,sayi1**sayi2
+18-Eðer islem "//" ye eþitse
+19-Yaz Tam Böldüm Sonuç,sayi1//sayi2
+20-Bitir
+
+
+Soru-8
+
+
+1-Baþla
+2-Oku sayi
+3-Eðer Sayi%2==0 ise devam et deðilse 5. Adýma git
+4-Yaz Bu Sayý Çift Sayýdýr , 6. Adýma Git
+5-Yaz Bu Sayý Tek Sayýdýr
+6-Bitir
+
+
+Soru-9
+
+
+1-Baþla
+2-Oku not1
+3-Oku not2
+4-Oku not3
+5-ortalama=(not1+not2+not3)/3
+6-Eðer ortalama>50 ise devam et deðilse 8. Adýma Git
+7-Yaz "Ortalamanýz ",ortalama," Geçtiniz" , 9. Adýma Git
+8-Yaz "Ortalamanýz ",ortalama," Kaldýnýz"
+9-Bitir
+
+
+Soru-10
+
+
+1-Baþla
+2-Oku yari_capi
+3-pi_sayisi=3.141592653589793
+4-cevresi=(2*pi_sayisi*yari_capi)
+5-alani=(pi_sayisi*yari_capi**2)
+6-Yaz "Dairenin Çevresi ",cevre,"\nDairenin Alaný ",alan," Birim Kare"
+7-Bitir
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
